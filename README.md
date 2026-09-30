@@ -1,4 +1,6 @@
 # Coffee-Sales-Dashboard-Excel
+<img width="3624" height="2482" alt="Dashboard" src="https://github.com/user-attachments/assets/518b800a-b65f-4759-904b-9b5f989546f8" />
+
 ## Project Overview  
 An interactive Coffee Sales Dashboard created in Microsoft Excel to analyze sales performance, customer behavior, and profitability.  
 ## Project Note
